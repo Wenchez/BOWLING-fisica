@@ -1,0 +1,4 @@
+repository "ProyectoBowling@churio2004@cloud"
+  path "/"
+    br "/main"
+    co "/main"
