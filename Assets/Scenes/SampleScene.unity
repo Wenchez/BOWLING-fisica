@@ -2479,7 +2479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae8dcc7687ee7af42b6f8c27d88dc05d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aceleracion: {x: 5, y: 0, z: 0}
+  aceleracion: {x: 1, y: 0, z: 0}
   fuerza: {x: 0, y: 0, z: 0}
   velocidad: {x: 0, y: 0, z: 0}
   ball: {fileID: 1836615316}
